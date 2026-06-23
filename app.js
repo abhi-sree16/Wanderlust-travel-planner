@@ -318,7 +318,7 @@ const destinationsData = [
         reviews: 6400,
         price: "₹5,500",
         duration: "2 Days / 1 Night",
-        image: "https://images.unsplash.com/photo-1627885438840-7e61ea2fc02f?w=800&q=80",
+        image: "https:/b/young-people-enjoying-whitewater-river-rafting-river-ganges-rishikesh-india-rishikesh-india-young-people-adventure-white-147576726.jpg",
         description: "Get your adrenaline pumping as you crash through the rapids of the holy Ganges river, followed by riverside camping, bonfires, and cliff jumping.",
         accommodation: "Riverside camps and ashrams.",
         transport: "Walking, auto-rickshaws, and shared jeeps.",
